@@ -16,5 +16,14 @@
     "developer": "Lodine Software",
     "website": "https://github.com/lodinesoftware/fileverifier",
     "visibility": "hidden"
+  },
+  {
+    "title": "PC Manager",
+    "slug": "pcmanager",
+    "date_of_release": "TBD",
+    "description": "A free and open source PC manager for Windows",
+    "developer": "Lodine Software",
+    "website": "https://github.com/lodinesoftware/pcmanager",
+    "visibility": "hidden"
   }
 ]
